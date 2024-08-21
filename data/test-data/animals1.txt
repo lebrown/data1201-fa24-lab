@@ -1,0 +1,8 @@
+dog
+cow
+cat
+bird
+elephant
+snake
+turkey
+owl
